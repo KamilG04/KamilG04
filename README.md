@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/your-username" target="_blank">GitHub</a>
+  #<a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
+  #<a href="https://github.com/your-username" target="_blank">GitHub</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
