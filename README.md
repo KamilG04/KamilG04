@@ -5,12 +5,7 @@
 
  
 
-<h3 align="left">Currently just learning</h3>
-<ul>
-  <li><strong>PicoCTF:</strong> <em>CTF competition focused on cybersecurity</em> 🔐</li>
-  <li><strong>HackTheBox:</strong> <em>Platform for practicing penetration testing skills</em> 💻</li>
-  <li><strong>GoSecurity PB CTF:</strong> <em>Participated in CTF challenges to enhance security skills</em> 🛡️</li>
-</ul>
+<h3 align="left">Currently just learning(HTB CPTS)</h3>
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="center">
